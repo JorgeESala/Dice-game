@@ -1,4 +1,14 @@
 # Task 3
+
+## Usage
+
+When launched it accepts 3 or more strings, each containing 6 comma-separated integers. E.g., python node main.js 2,2,4,4,9,9 6,8,1,1,8,6 7,5,3,7,5,3.
+
+## Video 
+
+[![Task 3](https://img.youtube.com/vi/jJsXP1_Iqi0/0.jpg)](https://www.youtube.com/watch?v=jJsXP1_Iqi0)
+
+
 This is the solution to the following task:
 
 Using the language of your choice—from the C#/JavaScript/TypeScript/Java/PHP/Ruby/Python/Rust set, please—to write a console script that implements a generalized dice game (with the supports of arbitrary values on the dice). Of course, it's recommended to use the language of your "specialization," i.e. C# or JavaScript/TypeScript, but it's not required.
